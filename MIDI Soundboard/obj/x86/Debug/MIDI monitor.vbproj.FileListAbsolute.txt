@@ -1,0 +1,51 @@
+C:\Users\Paul\documents\visual studio 2010\Projects\MIDI monitor\MIDI monitor\bin\Debug\MIDI monitor.exe
+C:\Users\Paul\documents\visual studio 2010\Projects\MIDI monitor\MIDI monitor\bin\Debug\MIDI monitor.pdb
+C:\Users\Paul\documents\visual studio 2010\Projects\MIDI monitor\MIDI monitor\bin\Debug\MIDI monitor.xml
+C:\Users\Paul\documents\visual studio 2010\Projects\MIDI monitor\MIDI monitor\obj\x86\Debug\MIDI_monitor.Form1.resources
+C:\Users\Paul\documents\visual studio 2010\Projects\MIDI monitor\MIDI monitor\obj\x86\Debug\MIDI_monitor.Resources.resources
+C:\Users\Paul\documents\visual studio 2010\Projects\MIDI monitor\MIDI monitor\obj\x86\Debug\MIDI monitor.vbproj.GenerateResource.Cache
+C:\Users\Paul\documents\visual studio 2010\Projects\MIDI monitor\MIDI monitor\obj\x86\Debug\MIDI monitor.exe
+C:\Users\Paul\documents\visual studio 2010\Projects\MIDI monitor\MIDI monitor\obj\x86\Debug\MIDI monitor.xml
+C:\Users\Paul\documents\visual studio 2010\Projects\MIDI monitor\MIDI monitor\obj\x86\Debug\MIDI monitor.pdb
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.exe
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.xml
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.pdb
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\bin\Debug\MIDI monitor.exe
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\bin\Debug\MIDI monitor.pdb
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\bin\Debug\MIDI monitor.xml
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.vbprojResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI_monitor.Form1.resources
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI_monitor.Resources.resources
+C:\Users\Tobias\Desktop\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.vbproj.GenerateResource.Cache
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.exe
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.xml
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.pdb
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\bin\Debug\MIDI monitor.exe
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\bin\Debug\MIDI monitor.pdb
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\bin\Debug\MIDI monitor.xml
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.vbprojResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI_monitor.Form1.resources
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI_monitor.Resources.resources
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monit2or\MIDI monitor\obj\x86\Debug\MIDI monitor.vbproj.GenerateResource.Cache
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.exe
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.xml
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.pdb
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\bin\Debug\MIDI monitor.exe
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\bin\Debug\MIDI monitor.pdb
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\bin\Debug\MIDI monitor.xml
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.vbprojResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI_monitor.Form1.resources
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI_monitor.Resources.resources
+C:\Users\Tobias\Desktop\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.vbproj.GenerateResource.Cache
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\bin\Debug\MIDI monitor.exe
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\bin\Debug\MIDI monitor.pdb
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\bin\Debug\MIDI monitor.xml
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI_monitor.Form1.resources
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI_monitor.Resources.resources
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.vbproj.GenerateResource.Cache
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.vbproj.CoreCompileInputs.cache
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.exe
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.xml
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.pdb
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI_monitor.Black.resources
+D:\Eigene Spiel und Projektdaten\Midi\MIDI monitor risky\MIDI monitor\obj\x86\Debug\MIDI monitor.vbprojAssemblyReference.cache

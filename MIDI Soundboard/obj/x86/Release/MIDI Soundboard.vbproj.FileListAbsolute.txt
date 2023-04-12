@@ -1,0 +1,12 @@
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\obj\x86\Release\MIDI Soundboard.vbproj.AssemblyReference.cache
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\obj\x86\Release\MIDI_Soundboard.Black.resources
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\obj\x86\Release\MIDI_Soundboard.Form1.resources
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\obj\x86\Release\MIDI_Soundboard.Resources.resources
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\obj\x86\Release\MIDI Soundboard.vbproj.GenerateResource.cache
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\obj\x86\Release\MIDI Soundboard.vbproj.CoreCompileInputs.cache
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\bin\Release\MIDI Soundboard.exe
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\bin\Release\MIDI Soundboard.pdb
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\bin\Release\MIDI Soundboard.xml
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\obj\x86\Release\MIDI Soundboard.exe
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\obj\x86\Release\MIDI Soundboard.xml
+H:\Backup\Projekte_Backup\LwE\Midi\MIDI Soundboard\MIDI monitor\obj\x86\Release\MIDI Soundboard.pdb
