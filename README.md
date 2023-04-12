@@ -9,4 +9,4 @@ Better README, clean up the code and a bunch of stuff probably. I don't remember
 
 ## Requirements
 - A midi device. Preferably an ICON i-Stage which was used with this program.
-- This also requires a configuration tool that I made which makes it easy to create different profiles to the buttons and assign sounds. This tool is currently not working because of some outdated framework which I don't know how to upgrade.
+- This also requires a configuration tool that I made which makes it easy to create different profiles to the buttons and assign sounds. This tool is currently not working because of some outdated framework which I don't know how to upgrade. You can make these files yourself but that is very annoying.
