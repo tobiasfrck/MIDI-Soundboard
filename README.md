@@ -1,6 +1,11 @@
 # MIDI-Soundboard
 This is a midi soundboard that is meant to work with a virtual mixing console.
 
+## Why is this cool?
+It has the ability to change the audio deivce. That's it. Isn't that awesome? Well, it was back then, ok?\
+With this you can select an audio input in Voicemeeter for example and route the sounds to your mic and your headphones.\
+It can also have multiple pages of sounds and has the ability to spawn a black window to make cheap screens with low refresh rate bearable.
+
 ## DON'T JUDGE
 This code is old. Do NOT judge this code. I am aware that this is probably not the best code but this was one of my first big projects and I am pretty proud of what I managed to do.
 
